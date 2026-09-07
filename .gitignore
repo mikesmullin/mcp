@@ -1,0 +1,11 @@
+# deps
+node_modules/
+
+# Private packages + helpers (local only — never publish)
+file-rsh/
+term-rsh/
+shared/rsh-*
+
+# Standalone MCP packages live here as git submodules (one repo each).
+# Private packages (local only — never publish)
+work/

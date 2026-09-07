@@ -1,0 +1,36 @@
+[submodule "file-io"]
+	path = file-io
+	url = git@github.com:mikesmullin/mcp-file-io.git
+	branch = main
+[submodule "term-local"]
+	path = term-local
+	url = git@github.com:mikesmullin/mcp-term-local.git
+	branch = main
+[submodule "todo"]
+	path = todo
+	url = git@github.com:mikesmullin/mcp-todo.git
+	branch = main
+[submodule "bun-debug"]
+	path = bun-debug
+	url = git@github.com:mikesmullin/mcp-bun-debug.git
+	branch = main
+[submodule "compact"]
+	path = compact
+	url = git@github.com:mikesmullin/mcp-compact.git
+	branch = main
+[submodule "context-loop"]
+	path = context-loop
+	url = git@github.com:mikesmullin/mcp-context-loop.git
+	branch = main
+[submodule "home"]
+	path = home
+	url = git@github.com:mikesmullin/mcp-home.git
+	branch = main
+[submodule "sandbox"]
+	path = sandbox
+	url = git@github.com:mikesmullin/mcp-sandbox.git
+	branch = main
+[submodule "zen"]
+	path = zen
+	url = git@github.com:mikesmullin/mcp-zen.git
+	branch = main
