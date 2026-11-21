@@ -34,3 +34,7 @@
 	path = zen
 	url = git@github.com:mikesmullin/mcp-zen.git
 	branch = main
+[submodule "video-transcribe"]
+	path = video-transcribe
+	url = git@github.com:mikesmullin/mcp-video-transcribe.git
+	branch = main

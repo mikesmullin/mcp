@@ -24,6 +24,7 @@ after cloning.
 | [`sandbox/`](./sandbox/) | [mcp-sandbox](https://github.com/mikesmullin/mcp-sandbox) | Sandbox container-workspaces: hire/steer/wait/cancel |
 | [`term-local/`](./term-local/) | [mcp-term-local](https://github.com/mikesmullin/mcp-term-local) | Local process: `bash`, `exec` (merged streams, throw on nonzero) |
 | [`todo/`](./todo/) | [mcp-todo](https://github.com/mikesmullin/mcp-todo) | Session checklist: `todo_read`, `todo_write` (full-list replace or merge-by-id) |
+| [`video-transcribe/`](./video-transcribe/) | [mcp-video-transcribe](https://github.com/mikesmullin/mcp-video-transcribe) | YouTube transcripts: `transcript`, `list_caption_tracks` (yt-dlp auto-subs, no download) |
 | [`zen/`](./zen/) | [mcp-zen](https://github.com/mikesmullin/mcp-zen) | Zen/Firefox remote-control: persistent MCP HTTP server + browser extension |
 | [`shared/mcp-stdio.mjs`](./shared/mcp-stdio.mjs) | (here) | Shared stdio JSON-RPC helper (vendored per package at split time) |
 
