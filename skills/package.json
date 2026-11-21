@@ -1,0 +1,18 @@
+{
+  "name": "@mikesmullin/mcp-skills",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "MCP stdio server for the skills CLI: one `skills(name?) -> string` tool that finds and prints AI skill files by name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesmullin/mcp.git"
+  },
+  "bin": {
+    "mcp-skills": "./server.coffee"
+  },
+  "dependencies": {
+    "bun-coffeescript": "^1.0.3"
+  }
+}

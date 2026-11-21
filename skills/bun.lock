@@ -1,0 +1,17 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "@mikesmullin/mcp-skills",
+      "dependencies": {
+        "bun-coffeescript": "^1.0.3",
+      },
+    },
+  },
+  "packages": {
+    "bun-coffeescript": ["bun-coffeescript@1.0.3", "", { "dependencies": { "coffeescript": "^2.7.0" } }, "sha512-UEnyRtQXvlQOLmmr0gVewl+mo1WnjMPZqo4hdZQc5+pADzCaDEanBi4m4PYW7tDZRJOzf9jnIBWXsR+lfoVTVw=="],
+
+    "coffeescript": ["coffeescript@2.7.1", "", { "bin": { "cake": "bin/cake", "coffee": "bin/coffee" } }, "sha512-zDQ0M/Ad05+5eudURWh31RIQc8i1TxIWuUgidoRx7gtrcQnDwSwSckVaJLg3AGKE+z0PuKnIOZ1DZnYvebuvIg=="],
+  }
+}
